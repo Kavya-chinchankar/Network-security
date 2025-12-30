@@ -509,7 +509,7 @@ By completing this repository:
 * Strong networking fundamentals
 * Security‑first mindset
 * Hands‑on confidence
-* Interview‑ready explanations
+* Interview‑ready explanation
 
 ---
 
