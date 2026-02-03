@@ -504,7 +504,7 @@ Day 30: Final assessment, network design, and readiness review
 
 ## 🎯 Result
 
-By completing this repository:
+By completing this repository
 
 * Strong networking fundamentals
 * Security‑first mindset
